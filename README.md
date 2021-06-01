@@ -1,5 +1,5 @@
 
-### Table of Contents
+### Table of Contents modified
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
